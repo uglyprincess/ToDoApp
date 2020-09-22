@@ -1,0 +1,8 @@
+# ToDoApp
+This is a fully functional ToDoList app which can keep track of your to-do items. 
+You can add and delete items, as well as create new lists by typing the name in the address bar.
+The app can be accessed on this link: https://polar-sierra-78517.herokuapp.com/
+
+P.S. - Make sure you 'npm install' all the relevant packages listed in packages.json
+
+Enjoy!
